@@ -1,0 +1,3 @@
+These are three different models trained over Detectron2 layout model.
+Numbers at the end of name is total iteration the model is trained for.
+Best result was achieved with the model_final_30k
