@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pdf-2-audiobook-338519",
+  "private_key_id": "6e86e5f94c7c21eae703d25fe0be13cc1396910f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDn9Jx9QDfSH9im\nlJNEBJwR5TuJ8JUQnlH/VNz42mCO+btiCL1KWarjIJ6cOuDppuQzJRhjN+HTjgjy\nlIGappXjSp89vFN3PP6agfGXwaWFp4dLmFXS+9aovq2238+fqV38g+pHa2IGvDtp\nnT6J6QEAoR/FWAFHp1kcuzbHM2B/8eJvvpxTXU5PV9eMq4WGPlJeiPov0gHFaquE\nqF92FRe0At2QPxCCE+akPzTo8WDXIgBBQZddxVLz/qPM0itpffi3MT2ZUyr5KtSb\nQ6xMfLIEI53ur9LrLg6INw1igGUQJwlzJW2wU3vsctWecu1tzMPC464isVjVEAbF\nv4RDIzE9AgMBAAECggEAAkrm5A8HLja93bGgvf6cq0mce8nKs2IZNeCZGYWRCEC8\nIyUqd8pol7uaDbnAQNbzMPU4JzzlaMGh4YHpwQVN/HPfnIzYt1g9PPo1UNZrZCWK\nfwsHqCDwl3ThAyp1oyKZqPYF0gRj8OSZ4rqY5GSO67pr9beftZ1YEmJgUXo2xTTy\nQnm16oNXdp0lUllPDarGXZdiYsTl6sWkHeg+FiXx2+zyK26bEuHPbdMUVnhYdPQs\nqZvAgfCZQAq3Ys3rfbqPh5xXAVpsAQGVcGmDpBUF18JQ/dBQ2RiHxdsdPA1jj+MS\nYTi4QLj8NsMx2EIOD+yI5Uw1SWe6ZR6iiAE5uBgOcQKBgQD3ApKYli5jkNSYTxC9\nk5EMCciTbxTlowsuDKlexPDWHtS94obGxxBXhv3vM7VQj6EbaiWaSiXI5RNCq9LY\nFusH3o7fPNS1fAs9FZKqvZ5hNk+UjK3Ze76CDjKvY9otHj80iEIbQ2pO2iSqHmsg\nLAr0hdIg1+1/S9Ra59+B1qDOMQKBgQDwZcX+ULGktcZcMTPdywaUiZyLcnkPOPnd\nfJi+VtKkPWu9UYavs1piGvqplClrKLlDxwnDTLCOpYJhODGygqu8tYMAhTrVwHkH\n3Q1dzXH1M1XdQ9mZPE22BOF0KONueWlB+sGKkZJaUw7LYgipy3NuR5l45Ms9fJMN\nhzi+0JZUzQKBgA84I1wvdLBBzjeMN5XWr8s0Fx2ubHUxtJCjyxPBwq0OvUDt4iwB\nO+qIsMC6SOOr1dtgkOyOwQE9zBABkj4qO1UCy37Jurlr6S1cVOscP9Pxirm2aUfL\nLhPJWCoiVuEMygwskRYo8zXkjvnEYglbbVlfnXDUnReIzo7DVqwjU0khAoGBALb9\n0bRf+omVsRP2hDO92xlwkxB3J/3VciYONTsWXiuVcZDgITVXwmJRhSNW3BxtGHGm\nbiETHIbJKDEXFIV9AHuac8kOoZWaeMbqlsUjoS50UFUo09fYVpNKrc+9XDp5Aw2t\ncmwnmY9WEDnzOwL9ErYMnJ+xEaCRVmMC3sgpgXW1AoGAEBe8w7QPu1PSQ2T1b0Tw\nqUXCpo40DnUe7NGDrvNsw3wXo2FJzKr6JTbUS1M1Mrn5CpxACYE9JICumW8BUAQE\n6rNlQUJzd3Bc1gxtrDmZSnZV+C8eQ6J+0sCrtAKE8rcTsKNv0M3IU87iCV3cPYG9\nLZPpTn9T7oGyleGtvXeKUjg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "pdf2audio@pdf-2-audiobook-338519.iam.gserviceaccount.com",
+  "client_id": "109995884971807811737",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pdf2audio%40pdf-2-audiobook-338519.iam.gserviceaccount.com"
+}
