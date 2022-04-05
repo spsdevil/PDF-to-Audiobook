@@ -1,3 +1,5 @@
-These are three different models trained over Detectron2 layout model.
+These are three different model's config file trained over Detectron2 layout model.
 Numbers at the end of name is total iteration the model is trained for.
-Best result was achieved with the model_final_30k
+Best result was achieved with the model_final_30k.
+Download model fromn the link below
+https://drive.google.com/drive/folders/1N63bRcHZG-W_MeP0QqsKYvPh3v5-fkgs?usp=sharing
